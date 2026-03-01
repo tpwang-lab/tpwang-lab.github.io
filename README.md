@@ -12,7 +12,7 @@ Research interests: AI Empirical Studies, Biomedicine, Psychology, and Classical
 > **Resources:** 
 > - [📄 View Report & Code (GitHub)](https://github.com/tpwang-lab/deepseek-million-token)
 > - [📥 Download PDF (English)](https://github.com/tpwang-lab/deepseek-million-token/blob/main/DeepSeek_Million_Token_Window_revision_final.pdf)
-> - [📥 下载 PDF (中文)](https://github.com/tpwang-lab/deepseek-million-token/blob/main/DeepSeek_Million_Token_Window_CN.pdf) *(请确认中文名)*
+> - [📥 下载 PDF (中文)](https://github.com/tpwang-lab/deepseek-million-token/blob/main/Deepseek百万token窗口实践全记录.pdf) *(请确认中文名)*
 
 ---
 
