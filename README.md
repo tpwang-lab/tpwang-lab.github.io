@@ -1,6 +1,6 @@
 # 👋 Welcome to T.P. Wang Lab
 
-Research interests: AI Empirical Studies, Biomedicine, Psychology, and Classical Literature Analysis.
+Research interests: AI Empirical Studies in Computable Biomedicine, Psychology, and Classical Literature with English & Chinese Bilingual perspective.
 
 ---
 
